@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACP,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,GAAG;EAClB,gBAAgB,EAAE,mCAAmC;CACrD;;AACD,AAAA,iBAAiB,CAAC;EACjB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,aAAa,EAAE,MAAM;EACrB,eAAe,EAAE,YAAY;CAC7B",
+    "sources": [
+        "avathar.scss"
+    ],
+    "names": [],
+    "file": "avathar.css"
+}

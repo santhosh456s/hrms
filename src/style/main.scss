@@ -1,0 +1,28 @@
+@import "./theam";
+
+// global level svg
+@import "./comman";
+
+@import "../component/dashboard/dashbord";
+
+//Avathar
+@import "../component/header/avathar/avathar.scss";
+
+//information
+
+@import "../component/dashboard/screen/information/information.scss";
+
+//Header
+@import "../component/header/header.scss";
+
+//greeting
+@import "../component/greeting/greeting.scss";
+
+// Home
+@import "../component/dashboard/screen/home/home.scss";
+
+//Recruitment
+
+@import "../component/recruitent/recruitment.scss";
+//Login
+@import "../component/dashboard/screen/login/login.scss";

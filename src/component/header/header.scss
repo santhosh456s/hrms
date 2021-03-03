@@ -1,0 +1,36 @@
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.header-container {
+	display: flex;
+	width: 70%;
+	align-items: center;
+	align-content: center;
+
+	justify-content: space-between;
+}
+.send-section {
+	display: flex;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: center;
+}
+.search-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: center;
+	border: 1px solid black;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+input {
+	margin-right: 10px;
+	padding: 5px;
+	outline: none;
+	border: none;
+	border-radius: 8px;
+}

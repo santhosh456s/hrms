@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACL,MAAM,EAAE,eAAe;CACvB",
+    "sources": [
+        "recruitment.scss"
+    ],
+    "names": [],
+    "file": "recruitment.css"
+}

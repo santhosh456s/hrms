@@ -1,0 +1,44 @@
+.recruitment-container {
+	border: 1px solid black;
+	border-radius: 15px;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	overflow: scroll;
+}
+
+td {
+	text-align: left;
+	padding: 6px;
+	margin: 2px;
+}
+th {
+	text-align: left;
+	padding: 6px;
+	margin: 2px;
+	background-color: antiquewhite;
+}
+// tr:nth-child(even) {
+// 	background-color: orange;
+// }
+.rerecruitment-footer {
+	display: flex;
+	width: 100%;
+	height: 40px;
+	border-radius: 0 0 15px 15px;
+	align-items: center;
+	align-content: center;
+	background-color: orange;
+	justify-content: space-between;
+}
+button {
+	width: 120px;
+	padding: 0px;
+	border-radius: 15px;
+	border: none;
+	background-color: transparent;
+	align-content: center;
+	cursor: pointer;
+}
